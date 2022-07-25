@@ -1,476 +1,714 @@
 [[XyceWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "91918cc8eb18fe534dcbb02b12c3575c0f566713"
+git-tree-sha1 = "93877bb888b707df58cbab128ab27f07d88c4215"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "444b325a0c5231de0af110c762c58c5cc0ce968bae15023b4a24f939488f1182"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "1884b0e8d6e3760959890dca52050dc40e521f10bcae35e35bb82a2a6016b6ca"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4f00b79534bb298ec336a5ee12773b94eaaf6e22"
+git-tree-sha1 = "ddd11e4483b3b75376a06239aed51411018604a2"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "125f206816d5d57ee64689b276c388872f782979888844c581fa411fb531a917"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "1267f50dab15a61a426443d1efccfcb7b7fa524e8c1f5b036b6884bce732ccd5"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1188c003c1bc6af148fd3ac9bd1b18cecd149f54"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "dc1cdde24d7f0837a0c8802fdd78d42b842880817cc8d2879197e3ad6b533012"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d40e32370332e8c7a7083a7a804e203e7f717eb6"
+git-tree-sha1 = "083beb27180eeec6ab786942445c584f2ad7cabf"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "ea05f59f317eae07f7a00c16a0dd0b2defe4a15c17d78e094fa41054b8464e6c"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "4d00ea4b4621a638a1b089137b0798f7ceac0e6a3014c8c52c67ae611317bedc"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "849642b99e868192cf3d2bf2e6463e126abb8fdf"
+git-tree-sha1 = "839509a19f2a29edc3f9512a7ba15a00f1ad8f06"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "d81e35f04eac2d0149455f291892661f48122a4ee38fab0f489d16ae8a8fc4de"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "2fc9319c61d393fd4fd2933fffa825f3e4a81ea4d85d34e230c53dd9786f68aa"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae972a624658f1cfd879e1f5ae5d5c3f7628526e"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "21c9b5ac2c52fcb39913819cc5b0ac857aa2b0f506f9d8c0dd6e2bab61f5d8df"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "64ef9c1b90533e0f0ccb6490ba6a6b6352041d68"
+git-tree-sha1 = "d110049dfb180e980b920f991073bb2981fdb4b5"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "1ee723a7784a75c96166c81acb67ad1958b119e84b5e44f5c112ed408c827454"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "b6e8daa15891a7368b036af8294adad24b0f45fdfa681bad934eb820510409e6"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d200a0a44e2f270342137a0782fe160420b4e337"
+git-tree-sha1 = "276a17731cd91fe823488873cbe46a50dc41d4bb"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "cb04f2665900e5dffb7e1d22b1da74ceba6c06a01bd3f375a58e7cd2ed4cd9e2"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "c96a8e98c10ea7586e5f099c07e2ca1a3eeb54891ac741cc4f80111cd468e521"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8258ed72fbfeef930bd3c80a0ce23d83141b4a27"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "0ec23ba5926d20c54f41c3cee42e8ec43677c6a6880e8cd74f0208368b6b0a6c"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "65ee1300edf48c90c0de79a5a62dc9b96715f99e"
+git-tree-sha1 = "013618f86bb9b508506f0db26954807f4cd5bf9c"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "b775f6addd99219685dc5864cba8ce2fe69f8b18692529d8afaeb8cee027e94b"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "33c325af37701a0397e2de58c8cd4207549f3838368bbfa149e6c06dc240f0ba"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "18ca1b5c59b1fe98f416573d1a07be542ce0bf40"
+git-tree-sha1 = "0b162bf2a89d4658bf83c624b006ea00619074ca"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "26046906fcd7372c017204c174b278501fc65e6b61660fa4a6bc2bf3daaf22d4"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "c283926ff2dacdfcfeba5175bb5a87907c545024819214139c7cc151399b40c5"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[XyceWrapper]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e0f565081cf2c3e7c51073c7f98ce602448e2689"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[XyceWrapper.download]]
-    sha256 = "a8c0eeb5b5eb405d91345dc2e701d1d0f612f24212719f5e304487a5fcc872e9"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
-[[XyceWrapper]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "2a24dcab42890588ab24f6195bc2105341ebe93c"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[XyceWrapper.download]]
-    sha256 = "e54ba13c5f95000f32f0d718e6a52d1cf391c8b5e514accc6c1de5dccb4a44ea"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
-[[XyceWrapper]]
-arch = "armv7l"
-call_abi = "eabihf"
+arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "62c0a6760910f13945ad8f678ff89d4926df0e82"
-julia_version = "1.6.3"
-libc = "glibc"
+git-tree-sha1 = "b99895a6d3dde718d00a7d2e73e9431c3c658e09"
+julia_version = "1.8.0"
+libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "2ed34a48baa37912a2dff220d08360f060c4c6f79cca6a54767a42d88d3304fb"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
-[[XyceWrapper]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5458c2c684f6cf8360ad0eb5a770122bfbfd1a57"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[XyceWrapper.download]]
-    sha256 = "59fb5065085b0c80ab6f6b8b2505485a793470ccd07c2fb3061ff6ea39c54806"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "9572b647cae73b00c02c7b6729d67214198f79ec35225af654150773039e7fd9"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.aarch64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c846dd5e913749d62998b8a42dc1c1fa6c948264"
+git-tree-sha1 = "56983c41ce66ef1835b5547aa729986ed9f91e81"
 julia_version = "1.6.3"
-libc = "musl"
+libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "f1d5a3b083e30c205c82d56dce0e7ac643b54b9d4cf90db0eaaba5376b75e8b9"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "1c538f3571d1db5d40a7b6326f34b8fe2bb310851a8e62fa6b2f2d657701a223"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ba7437caf91856d86b7bb41ffc4618cda98db599"
+git-tree-sha1 = "d7e3968ae5f035d7ec3e698ab4b3f6f768edd7c4"
 julia_version = "1.7.0"
-libc = "musl"
+libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "2340c5605e5ddf2d57bb34d3ed734b0df4d844cee63f7545f71f181ec6c090d6"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "bfad5be591d95f4d2b572d91206993e58de5a845cacc59241e6cb90523a10a0e"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f9edc2ccd83c21bad5233056e549c7d32918477e"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "3d1e52841af519179145f5d50d9a1a4b9b9ac04ceae989d98129d1f336a93b09"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "be60bdc43758ff9b60fb02ee6310dc95973e1ac5"
+git-tree-sha1 = "1eada448dc2ae94b71cfe29ff1267d4795660821"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "8bfc7c0d52853b2432177b219405b369eddb53be4635ab54e6035e2906af6210"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+[[XyceWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8ff3c679a3b1eaa27ddac6a93aa65cb8900c2132"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "e6ac0e13cec351a661767a6af1adbd3f88ea49b5424ece11fdb9cb3ead772539"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6d70c2f4f6d83fe587f730f60dd92b0796b30fc0"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "3898141026074c62e84c7182dec5155e00cd0f07bf5a2123ed962483d4b1c909"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
+[[XyceWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "80065eca8473341d223daaa9301dbb98e79c2740"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "5e7a88bf18261bfc6b9fcc3fafe4cdc88e6760e7df29d3a0d2b7ee314770fde8"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "a45f019e85ff5bc7b6aeca70ea00d24c15649524413639b7c38f30a9ba680a04"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "de8676ad01fa89a6ccd32cf25d25503b5bb00e35"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0c179a547cff285ba1263b324615b4647240807b"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "99619f9d6a0cedaee9eceed8d8a320dcdc485297955bc55619a6e5aa38e81956"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "82146480085c6bb53306980f83aec375db0a88f0a117029ac77ef53f3fc5e80e"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d6c688deb5fb91b37c91a81063b8b11bbec65a43"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "664cea225a1f263c4575477fba72b09659da820817a4288db50dba44fd65aa08"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-musleabihf-cxx03-julia_version+1.8.0.tar.gz"
+[[XyceWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ab292ac92912fba09e0342d1cf5d523c0f3e9e0"
+julia_version = "1.6.3"
+libc = "musl"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "f011d558cc3169d2a74492b00f8c124758b0ff3d8840099d9fa1ae61e4dd05fb"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
+[[XyceWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "62a46a516f05e44a552b836decd25affdcc1d059"
+julia_version = "1.7.0"
+libc = "musl"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "c03c24c4c712fa062c0b52fcbbe26570f8f8082fa385302a09b615fb0ff8c59d"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bb10a48e42c882427b328a61c18c915d138d114"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "2c101bc1a1e817a0da86296eb27cf6db35236e220b5f0c11bf21817cb756dd8c"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.armv7l-linux-musleabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "377d8a73b826d3525bfcc74d8d5b45874642d4c4"
+git-tree-sha1 = "33de6a8b9a585289559df28e29b1e0386aad919f"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "92aa8fd7de73788f8737c2ed32cfb7fbb1748a214672453ce6a14e69e01bad40"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "8fd69e634a89a1231ff9151c707ce7010604e04d90a3b46223b1135f10f4ce14"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8cafc1c012996bf5dadf4f0f3cfda5bc8d781a4a"
+git-tree-sha1 = "68295ad43f11c570801644925c203a3b7cb26614"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "57fee00c00dcdf1cc0d3f7aceed4bd534ac2cfeab4e4ab2bff32ff9dd32399a9"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "365947beb8181a338df592eed7a4850321b8b45669b5d41e9d5e141042633780"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "55ca2d5ba0192bb740a7955b7ef807625d7dd8a8"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "a0b7a99fb4a272d59dd45171fdc91ea9b35902adf3d6e9a076e721026523f279"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5697e81369e164236fe920c8d4b86a0d6d299822"
+git-tree-sha1 = "7a919e5c1c80e4665743257258344e3a808de6eb"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "d0d44833ac637a6c0bfd6df287f260029dbe2a8fba21e8728c320f1b94a02e24"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "634c0b023fbc04e7f4b2e2af15d2482734b69c1978457b10338673224e03b6f6"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7c8c16056ca86a67d47d5f9b977fdbfff3c5d27e"
+git-tree-sha1 = "d2dd1ba01d92363486ac8c8a2eaf286c3c344561"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "62088fff8c2e297d733db5a61cf30d709f49ea80aa10f1842c8e1845954cf60b"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "949556efef9c093dee0f1cb49ab2e684ca3c54c1f0d186e67343ea29a27c050e"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "11db21d799a490d747aa4818ca8f337f714167f9"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "4b47ce9baffca2f13e2894fa5ab82a669ba924aaf5626c5beee672409002d281"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bb77400b05563e0c7a01d054a36e71928fc40f0a"
+git-tree-sha1 = "61c1fe64ff05e917cfae92f31ad8c4dfbee9daac"
 julia_version = "1.6.3"
 os = "windows"
 
     [[XyceWrapper.download]]
-    sha256 = "a37ce769717427e60bcb5bbd49edf9bbb126bec9a43442944493375873bbbcda"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "e96f9cacba850af4dd298a4982fb9958f022746d19ea80e6e0087cc2747a7354"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8dbe6934025e90931d8f6d27a624e145e5646cd5"
+git-tree-sha1 = "16e948e274bf5706687ef2789ce6ef75be87dbe7"
 julia_version = "1.7.0"
 os = "windows"
 
     [[XyceWrapper.download]]
-    sha256 = "c746eb1bf90ea34387cb16bcdbcbe0c3713a34b783090bf186216eb8c3e4e26c"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "b82926504672fe25a381565cb7dfb9f3fa4515804c457f3c91679422fd190408"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dad3888422c11b37a96196fe7326f071c1900441"
+julia_version = "1.8.0"
+os = "windows"
+
+    [[XyceWrapper.download]]
+    sha256 = "514f9470a11be25def0cedf9ad03f893420aba30959294b681f7c0b6415e2fb9"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-w64-mingw32-cxx03-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a1e879cc29ffa48cc1828408acd1ab5e4f051919"
+git-tree-sha1 = "d7b901fab403af4088e932f42df43bdf468d9a1c"
 julia_version = "1.6.3"
 os = "windows"
 
     [[XyceWrapper.download]]
-    sha256 = "752be20a29c3734b5d853f392adf7fa9856e218b20737f4bc8c25c6e307e2f82"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "32f022c2382a5be3db351bfe688a9357300f96978b17573f2057b16927f8505c"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fc675c474a8dccb43c08415e8098fbaaee9e28b0"
+git-tree-sha1 = "008a2b2a778b42b7eb9837e54013dd5aed1dc752"
 julia_version = "1.7.0"
 os = "windows"
 
     [[XyceWrapper.download]]
-    sha256 = "45c30b6ca880fffc19e4ec6c7cf716b832a635cfdfe1480d6aab0f22fc982962"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "be5318183e3765f71d743b011b2610315056d72d0998b95540dc18f87412011c"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[XyceWrapper]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "32b94e4e0826065c2ba3712eca946128ecc822f1"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[XyceWrapper.download]]
-    sha256 = "929ec9c7c4f15e966d1da6f5753cb7c57df40c5c413dc28f58e7a8e40c7895ad"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[XyceWrapper]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e2029fa43ad78ebb61fba1140e13b7503f180aaa"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[XyceWrapper.download]]
-    sha256 = "83afc961949e66ed7a112be8642f106ed5942b42dffd6886ae26a82c1f3b87b6"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[XyceWrapper]]
-arch = "powerpc64le"
+arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dabdc64fdc56c0feb5b730ee5e20b097952da939"
+git-tree-sha1 = "b305eb766c817bb0050c3c601a98fb323835ae4a"
+julia_version = "1.8.0"
+os = "windows"
+
+    [[XyceWrapper.download]]
+    sha256 = "e210a4050c3dd92ec31e101ce1f53fe98d300280d1794ebb4378fc69ec1c6016"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.i686-w64-mingw32-cxx11-julia_version+1.8.0.tar.gz"
+[[XyceWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "93567402150875c31012ad796f721b3cf60ef366"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "f7533c7eb4b0648f28a87765c158e71d6fce610e9b2e98ec1eba561380088240"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "ef21a64adf32a9a40cd122f808cddb56af5577b724003e8c0ea1e55321c42a5c"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "d461043826a2588abb8ed5ab69c84a757d8b8b6b"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "78912138f4af284760238c1fc7550004148d8403"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "471e860b4f29cf91bc6045ef37691bb050b8e7bf9ae1c415e727a0e5be3d4274"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "f7cfdc1f29cfce7dea3f7c749474aefaaf2e593cc4328da7019e7692577bf9e4"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "98d345b266e70e33abc4e56bc52d623f4c692178"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "e517a4df5daf1e7733544bfb035f08ba0f5295fde52b8cd30edd36bc7a58625c"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+[[XyceWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b0886ac1af32cabcf6ab8eff319c4c21792098ba"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "051c0b72c257bce204f3ec0fed3d6e2f85acab4814a76c5f3d9e0286399fe8d5"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[XyceWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84278f65e526002c6d635d498ffb6d35abf5abb2"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "a9a3c02ef18bb90d17ac5a916367af7806afce823821a34a1cbb50e4df8f002a"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8f71b5f00ac54f7b7fa02e6c355781123f608066"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "84e5bb29b30be57bf752be4a5a80cb38d7f027bbded1108b53184ed736a09fb1"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "b2dc00ed9125cea095aca033181bd3795b33862b"
+git-tree-sha1 = "68743062d22f12f7724aa27ac629c60f43644962"
 julia_version = "1.6.3"
 os = "macos"
 
     [[XyceWrapper.download]]
-    sha256 = "88d40d855ad602db87065f89ea19988c982be8f8299957566b043d16785b7065"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "4180712fbc3056e526769a54da8a90e4e31ff2c9529b6de652a05e9fc2649d3c"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "97e01d2adc660316eeee127bf2ce4ab217777eda"
+git-tree-sha1 = "0a17c1f40d6d802321d5009dbf392f4f861eb310"
 julia_version = "1.7.0"
 os = "macos"
 
     [[XyceWrapper.download]]
-    sha256 = "a9392e84de8feb76f5ac3ee9ba8d04b7a75479c3a1b694baa3ac7aae2e97fec9"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "a1ccef41fa5609e8cb891b8dbc7b8569a645706c0c41811b901ec40fe57285cd"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "61d7209c69945b0aed5bf0320f64c86acff72daf"
+julia_version = "1.8.0"
+os = "macos"
+
+    [[XyceWrapper.download]]
+    sha256 = "8c819e8725ff72b45b2ba6e4881e4037d8fe92594bc6f6a1e629fd32acc4f403"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "531c7a07272248c464bf3d6582a8752c006b79b5"
+git-tree-sha1 = "6b216f0aa1294a13ba917c1fdffbcdb6d4f76120"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "f2bdbfcd7efbe13beb7551c7eddc7d0d396904ff2995f5f9af8f123d793eb3c4"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "b6905768d3a8554f6334433989386789bd48d4581495aff210fd17a992dcd60e"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "697ae8d2561850b27eac947f5c2c18b874f5bec8"
+git-tree-sha1 = "5de295b9def3d4c2cde7a085426964caa69b503c"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "ebbf53d0d781bda6ab265da5ebacbfd048cf0fa689f920cc15b19181f26612ba"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "4e307eca70bcf3924ae08ad1300904f9a42aa9c3e3b08f60cbbea289b3afea70"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8f4d9ae3f1d8e90999e110ecedb34832b7242b92"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "1062ba26e8d3ea16a604ba458a555d98b066578a3b445a38af3c583fa85c95be"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1376c2cb94816276bbfddba89bc313562fe55eb1"
+git-tree-sha1 = "ad1547c53a28741b54a12dfab4e6add991c9b555"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "ed72ffb995a862e5642a864622baa46a37f606499fae84b1d33915ef7b282598"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "cc93648f16c2037ae9d995a5491ae0fba025f80af624e851954d4f5a9c7a38e8"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7f1226841a3c137f8eb1b62c6f21e215a0b57160"
+git-tree-sha1 = "bca64eeab2111d4802e4eea60e8a6472e2407d3e"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "5ee96116512e4e4631f1d9a728c355c66cf9e36b226223f7f888af74e2ddfd7b"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "b3f435f6d0ef0c196a8e45ba8daecdf0223d9ff14b96d5cb2c7538290faea2e1"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2a5ce1041be5dbe2e92c77fc182cdfda2dc2b12e"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "22896547a975873445325e3051817cc95edabe5a83a7c3997517927362a2bbbf"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4ae6aa6b2268b96dd2ea8423341b79219d752491"
+git-tree-sha1 = "5df069284392e93a40f52287a6a8c7f1ac233717"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "36d9dd54fdc095f65f964215bdac0dab5b97fe0e8ec5d45e00e0184625a22615"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "bb6c2eb6467eb3ce797afa694558a25cebcaaf9a8ad4d49c03a785e385f62b3b"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ed83e2e8df449045d163cd97855e4230de2d2ec7"
+git-tree-sha1 = "fb2cb69f6bc77952abc39969d99f4c88d71c5fa4"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "5edf492d84507309f41ca2e8bea239b533d2cfa6a99612783c785a156117fc6d"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "f1ce00c0742a42aad425a67a1517485fb693012b6c3a384b9408a59ea68825e5"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "85430ba680c4309fc2394ccd4b4ce1446e92f0f3"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "ce295552fcc03cc114ba3ab69698f0c69e9facb3232e1f9f92cd1c8022d76ee5"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5d177ed7c49c934998c5afc0de2a6a6e72ae5e27"
+git-tree-sha1 = "37e86fc76c4f1e4318be2d171c7c439746a609e7"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "1d6d1d4967d184f16d5040213acedbf99861cf83cd67acf5cc26fc37c17a9c20"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "91fa9b10f2b3ec9e0a1bf3f613adcc2514acdb2c41ce3444c72b74a7f6355711"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "df9b4969f7b5da4d80761076404e8fc39c4b0409"
+git-tree-sha1 = "5ebef21f3fedd7823cc10dcec5d294552d076529"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[XyceWrapper.download]]
-    sha256 = "b1d79316cf51d5e13de1b86f3d268dacd573cdefee452f6006fd01815b6b5205"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "2960163bf6792d37b216c96c4b25c0fa9fb78c4eca26d3241285fc00f8e10264"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "24a1aa857ce6c7ad0165cf32272e4958395cb8df"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "73c3f8800717ea663af9346a49a3631668cd86b4"
+julia_version = "1.8.0"
+libc = "musl"
+os = "linux"
+
+    [[XyceWrapper.download]]
+    sha256 = "eb3cf73231edcdead4fe3335de7ae7759b2ebeeb78e5debd18abe6671c68365e"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
+[[XyceWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "600718be47e95c7e06d1c647e1375a685b20777a"
 julia_version = "1.6.3"
 os = "freebsd"
 
     [[XyceWrapper.download]]
-    sha256 = "55b03f0e45406366507311b36c992eb5aa7af6c54806ab581f75a939512394ef"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+    sha256 = "4d1bdae20436159ade7e2b41f9d50228901a5098e1faa688ced25615b3f91c3d"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "acd1b787a5b58185236f43aa6fb63833c691286b"
+git-tree-sha1 = "f001ef95cf4651a39127d2d1def6c855f5809e5b"
 julia_version = "1.7.0"
 os = "freebsd"
 
     [[XyceWrapper.download]]
-    sha256 = "d02340c3dd2b5b87c3e5b4d3062b2905387f8d29437537f0081efe363d020582"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+    sha256 = "5426bbd7948012d6be8e00389de3f0ef23f27732fafaaa78d57efe29eae1e795"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "x86_64"
+git-tree-sha1 = "8d84f4110b8b85418ee32a59c8d941203c2d6d2f"
+julia_version = "1.8.0"
+os = "freebsd"
+
+    [[XyceWrapper.download]]
+    sha256 = "1b1db1e753e0c1e810fed0482f3d0bb08f9c2bb66c6b69b4c6570fe64bd63805"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-unknown-freebsd-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "16f96c45fcdc8d06d615028a1c0727e10a8be0b8"
+git-tree-sha1 = "f8d80c6f6cb7805e51f9997fa694a9657097652d"
 julia_version = "1.6.3"
 os = "windows"
 
     [[XyceWrapper.download]]
-    sha256 = "d188ae30587da1d8e89fdc3377e00306216dba13e3b502e6458ed483f3f82dad"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "f9fb7294f255c5bbaa5331d46e7c4b851e27e8d54945c6f57965294a1bbb7cdf"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f6320a278b7c3fb112718cd130f72b3ffba701bb"
+git-tree-sha1 = "6021dffc776cdcfb5e0ad62d1d35551f7ed28ec9"
 julia_version = "1.7.0"
 os = "windows"
 
     [[XyceWrapper.download]]
-    sha256 = "1b65bae016333a606df65508ef435bc3726da70c04828aac7a74d475940b76ec"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "cb19676f135ab5ae760475f7b0e33e937de95f660fa04d8a951562393a7b3f2d"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a91a0044bfa1a5e6fcee2b9a5ab54877414570a5"
+julia_version = "1.8.0"
+os = "windows"
+
+    [[XyceWrapper.download]]
+    sha256 = "6552d24ac00fb35e8c82f01b36782c2f10e6932a67b459ea2f644ffd0a38c0e2"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.8.0.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f6cbdc8dad45212ad9341e72d0c7d39ef043da81"
+git-tree-sha1 = "bffc796997649531baca4e49621f00ea1c9dd3ed"
 julia_version = "1.6.3"
 os = "windows"
 
     [[XyceWrapper.download]]
-    sha256 = "57047004fc33f90051488420beddb77329b441c6c610140f2da4d3e30ed90ade"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "1bef4addb5acf26af578dd24beab6b2d2701a29808af73acc52ef88f0ea8a59e"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[XyceWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1df729f45893863bd8bfbea8d189cdeb59ac4c72"
+git-tree-sha1 = "1d9053d7dd266bf8aa819e2bbe17b9088ff078c3"
 julia_version = "1.7.0"
 os = "windows"
 
     [[XyceWrapper.download]]
-    sha256 = "e0584f01be199ce788db01908c4fc3e86da7d50b59f620827aec1a89257efadd"
-    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+0/XyceWrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "628296825289730ce5be38ea557d56d33898805a366bdcac79ef79129666bc1c"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+[[XyceWrapper]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "22c056dd5aa445313a62701fb87485193b338553"
+julia_version = "1.8.0"
+os = "windows"
+
+    [[XyceWrapper.download]]
+    sha256 = "1430c95f64488ca9e65b6229249e2c1192b105fbcdd6428bae170df11be128e9"
+    url = "https://github.com/JuliaBinaryWrappers/XyceWrapper_jll.jl/releases/download/XyceWrapper-v0.3.0+1/XyceWrapper.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.8.0.tar.gz"
