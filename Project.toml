@@ -1,6 +1,6 @@
 name = "XyceWrapper_jll"
 uuid = "11346573-4739-5234-a9de-0f0819ae11a7"
-version = "0.3.0+1"
+version = "0.3.0+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
